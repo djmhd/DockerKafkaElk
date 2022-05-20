@@ -17,27 +17,17 @@ Run the shell script
 
 You should have a result like this
 
-`Status: Downloaded newer image for bitnami/kafka:3.1
-
+> Status: Downloaded newer image for bitnami/kafka:3.1
 Creating dockerkafkaelk_zookeeper_1 ... done
-
 Creating dockerkafkaelk_setup_1     ... done
-
 Creating dockerkafkaelk_kafka-1_1   ... done
-
 Creating dockerkafkaelk_kafka-0_1   ... done
-
 Creating dockerkafkaelk_kafka-2_1   ... done
-
 Creating dockerkafkaelk_es01_1      ... done
-
 Creating dockerkafkaelk_es02_1      ... done
-
 Creating dockerkafkaelk_es03_1      ... done
-
-Creating dockerkafkaelk_kibana_1    ... done`
-
-
+Creating dockerkafkaelk_kibana_1    ... done
+>
 
 ## Access the Kibana admin web server
 
