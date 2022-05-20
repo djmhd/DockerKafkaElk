@@ -284,7 +284,7 @@ services:
     ports:
       - "9093:9093"
     networks:
-      - multi-compose-net3
+      - multi-compose-net
       - external-compose-net
     environment:
       - KAFKA_CFG_ZOOKEEPER_CONNECT=zookeeper:2181
